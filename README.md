@@ -2,7 +2,7 @@
 
 An end-of-year networking project: design and implementation of an enterprise network for a three-floor hotel, built in Cisco Packet Tracer. It uses VLANs, inter-router serial links, OSPF routing, DHCP on the routers, SSH remote management, and port security.
 
-![Network topology](screenshots/topology.png)
+
 
 ## Scenario
 
