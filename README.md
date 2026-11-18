@@ -111,4 +111,4 @@ Cisco Packet Tracer
 
 ## Author
 
-Parimal, CSE student, SRM University
+Parimala, CSE student, SRM University
